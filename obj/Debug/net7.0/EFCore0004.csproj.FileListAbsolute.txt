@@ -19,9 +19,10 @@ D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\EFCore0004.Genera
 D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\EFCore0004.AssemblyInfoInputs.cache
 D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\EFCore0004.AssemblyInfo.cs
 D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\EFCore0004.csproj.CoreCompileInputs.cache
-D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\EFCore0004.csproj.CopyComplete
 D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\EFCore0004.dll
 D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\refint\EFCore0004.dll
 D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\EFCore0004.pdb
 D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\EFCore0004.genruntimeconfig.cache
 D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\ref\EFCore0004.dll
+D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\EFCore0004.sourcelink.json
+D:\Estudos\Fiap\Repositorios\2NETR\EFCore0004\obj\Debug\net7.0\EFCore0004.csproj.Up2Date
